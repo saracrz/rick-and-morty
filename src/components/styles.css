@@ -1,0 +1,16 @@
+.character-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.character {
+    margin: 0.5rem;
+}
+
+img {
+    border-radius: 50%;
+    width: 75%;
+}
